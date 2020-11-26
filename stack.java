@@ -2,7 +2,7 @@ public class Stack<Item> {
     // create a pointer to first node
     private Node first;
 
-    // create innter class called Node
+    // create inner class called Node
     private class Node {
         Item item;
         Node next;
